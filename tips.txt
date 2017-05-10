@@ -1,0 +1,10 @@
+- viewport ; helps to render on mobile devices
+- /css/bootstrp....map file is used in development and debugging purpose
+- GRID System
+
+12 columns	- one column layout
+4 columns	- 3 column layout
+3 columns	- 4 column layout
+6 columns	- 6 columns column layour
+
+	
